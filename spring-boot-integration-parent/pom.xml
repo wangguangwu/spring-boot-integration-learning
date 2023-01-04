@@ -13,4 +13,5 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>spring-boot-integration-parent</name>
     <description>spring-boot-integration-parent</description>
+    <packaging>pom</packaging>
 </project>
