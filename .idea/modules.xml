@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/spring-boot-integration-01-starter/spring-boot-integration-01-starter.iml" filepath="$PROJECT_DIR$/spring-boot-integration-01-starter/spring-boot-integration-01-starter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spring-boot-integration-02-junit/spring-boot-integration-02-junit.iml" filepath="$PROJECT_DIR$/spring-boot-integration-02-junit/spring-boot-integration-02-junit.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/spring-boot-integration-learning.iml" filepath="$PROJECT_DIR$/.idea/spring-boot-integration-learning.iml" />
       <module fileurl="file://$PROJECT_DIR$/spring-boot-integration-parent/spring-boot-integration-parent.iml" filepath="$PROJECT_DIR$/spring-boot-integration-parent/spring-boot-integration-parent.iml" />
     </modules>
